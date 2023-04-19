@@ -38,20 +38,20 @@ Instrucciones:
 
 - Click derecho en la clase “server.py” y apretá “run”:
 
-
-- Click en edit configuración:
-
 ![Imagen4](https://user-images.githubusercontent.com/103141746/233189835-bd84d862-9d55-4d09-b53d-9319ba4ae6de.png)
 
 
-- Activar la opciòn “Allow parallel run”:
+- Click en edit configuración:
 
 ![Imagen5](https://user-images.githubusercontent.com/103141746/233189936-dc82c682-a524-40e9-ab51-1391dbd17793.png)
 
 
-- Aplicamos los cambios(apply)
+- Activar la opciòn “Allow parallel run”:
 
 ![Imagen6](https://user-images.githubusercontent.com/103141746/233189960-6841fe77-af56-4681-a4b0-968c7baadadb.png)
+
+
+- Aplicamos los cambios(apply)
 
 
 - Ejecutar la clase “menu.py”
